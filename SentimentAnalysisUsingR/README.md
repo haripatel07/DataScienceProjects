@@ -19,7 +19,7 @@ install.packages(c("tidytext", "stringr", "dplyr", "tidyr", "ggplot2", "reshape2
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DataScienceProjects.git
+   git clone https://github.com/haripatel07/DataScienceProjects.git
    cd DataScienceProjects/SentimentAnalysis
    ```
 2. Place your text file in the project directory and update `file_path` in `sentiment_analysis.R`.
