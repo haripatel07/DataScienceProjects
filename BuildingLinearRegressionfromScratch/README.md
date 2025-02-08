@@ -20,7 +20,7 @@ The model demonstrated strong predictive capability, with key findings including
 ### **Performance Comparison**
 The following scatter plot compares the predictions of the **custom linear regression model** (blue) and **sklearn's LinearRegression model** (red) against actual revenue values.
 
-![Custom Model vs. Sklearn Model](image.png)
+![Custom Model vs. Sklearn Model]()
 
 ## **Key Learnings**
 This project reinforced critical machine learning principles, including:
